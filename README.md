@@ -128,18 +128,6 @@ Editar `impresora.ini` para configurar la impresora de tickets.
 |-----|---------|------------|
 | Administrador | `admin` | `admin` |
 
----
-
-## 📸 Capturas de pantalla
-
-### Dashboard
-![Dashboard](screenshots/dashboard.png)
-
-### Ventas
-![Ventas](screenshots/ventas.png)
-
-### Inventario
-![Inventario](screenshots/inventario.png)
 
 ---
 
