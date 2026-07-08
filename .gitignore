@@ -1,0 +1,79 @@
+# Archivos de configuración de entorno
+.env
+.env.local
+.env.*.local
+
+# Archivos de base de datos
+*.db
+*.sqlite
+*.sqlite3
+*.sql
+
+# Archivos de caché PHP
+*.cache
+*.tmp
+*.log
+*.ini.backup
+*.ini.bak
+
+# Directorios de dependencias
+node_modules/
+vendor/
+composer.phar
+
+# Archivos de IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Archivos de sistema
+*.log
+*.pid
+*.lock
+
+# Archivos generados
+*.csv
+*.xlsx
+*.xls
+*.zip
+*.tar.gz
+*.rar
+
+# Archivos de impresora (contienen configuraciones locales)
+impresora.ini
+tema.txt
+
+# Archivos de datos de empresa (contienen información sensible)
+datos_empresa.txt
+datos_empresa.php
+
+# Archivos de sesión
+sessions/
+tmp/
+
+# Archivos de error
+error_log
+*.error
+
+# Archivos de editor
+*.bak
+*.old
+*.orig
+
+# Archivos de prueba
+test.php
+prueba.php
+
+# Carpeta de manuales de uso (excluida completamente)
+manuales de uso/
+
+# Archivos de manuales (si están fuera de la carpeta)
+*.pdf
+*.docx
+*.doc
+*.pptx
+*.ppt
